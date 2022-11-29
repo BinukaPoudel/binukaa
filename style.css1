@@ -1,0 +1,31 @@
+/* LaslesVPN */
+
+
+position: absolute;
+width: 103px;
+height: 24px;
+left: 195px;
+top: 56.12px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #0B132A;
+font-family: Rubik;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+font-family: Rubik;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;

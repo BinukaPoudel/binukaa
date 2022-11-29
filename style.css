@@ -1,0 +1,84 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body{
+    background-image: url(../index.html/MenuDesign/assets/images/beans.jpg);
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.menu {
+    width: 50%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    margin-top: 14px;
+    margin-bottom: 10px;
+    width: 40vw;
+        height:95vh;
+        
+  }
+  
+  h1, h2, p {
+    text-align: center;
+    padding-top: 10px;
+  }
+  
+  .established {
+    font-style: italic;
+    padding: 10px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    font-family: sans-serif;
+  }
+  .coffee{
+    padding: 10px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+.desserts{
+    padding-top: 20px;
+    padding-bottom: 18px;
+}
+  
+  .item p {
+    display: inline-block;
+    margin: 0;
+    font-size: 15px;
+    font-family:sans-serif;
+  }
+  
+  .flavor,.dessert {
+    width: 50%;
+    text-align: left;
+  }
+  
+  .price {
+    width: 50%;
+    text-align: right;
+  }
+  
+  hr {
+    height: 3px; ;
+    background-color: brown;
+    border-color: brown;
+    padding-bottom:2px;
+  }
+  
+  a {
+    color: black;
+  }
+  .visit{
+    font-size: small;
+    font-family: sans-serif;
+    padding-top: 12px;
+  }
+  .hr{
+    margin-top: 20px;
+  }
